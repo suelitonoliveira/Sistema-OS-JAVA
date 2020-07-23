@@ -5,3 +5,5 @@ Sistema ainda não está 100% mais da pra ser utilizado o mesmo feito para trein
 
 <h2>Tela de login</h2>
 ![telaLogin](https://user-images.githubusercontent.com/44897992/88322049-7d093d00-ccf6-11ea-8475-b8d11ce7fbda.jpg)
+
+https://user-images.githubusercontent.com/44897992/88322049-7d093d00-ccf6-11ea-8475-b8d11ce7fbda.jpg
